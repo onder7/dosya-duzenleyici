@@ -6,7 +6,8 @@
 
 ![image](https://github.com/user-attachments/assets/3bc7f4ca-653a-4cce-8c0e-5c1be36a18a8)
 
-
+Uygulamın derlenmiş haline buradan ulaşabilirsiniz. 
+https://drive.google.com/file/d/1v-kvai9r9S2ha4KIMyG7IH9MJu0rvJ85/view?usp=sharing
 ## 🇹🇷 Türkçe
 
 Hepimiz bu duyguyu biliyoruz bir gün İndirilenler klasörünüz bir kasırga sonrası gibi görünüyor. İşte her şeyi düzgün bir şekilde organize eden birDosya Düzenleyici, klasörlerinizdeki karışık dosyaları otomatik olarak kategorilere ayıran kullanıcı dostu bir GUI uygulamasıdır.
