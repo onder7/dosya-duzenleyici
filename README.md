@@ -134,11 +134,7 @@ dosya-duzenleyici/
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
-├── docs/
-│   └── images/
-├── src/
-│   └── utils/
-└── tests/
+
 ```
 
 ---
