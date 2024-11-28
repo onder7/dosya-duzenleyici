@@ -6,7 +6,7 @@
 
 ## 🇹🇷 Türkçe
 
-Dosya Düzenleyici, klasörlerinizdeki karışık dosyaları otomatik olarak kategorilere ayıran kullanıcı dostu bir GUI uygulamasıdır.
+Hepimiz bu duyguyu biliyoruz bir gün İndirilenler klasörünüz bir kasırga sonrası gibi görünüyor. İşte her şeyi düzgün bir şekilde organize eden birDosya Düzenleyici, klasörlerinizdeki karışık dosyaları otomatik olarak kategorilere ayıran kullanıcı dostu bir GUI uygulamasıdır.
 
 ### ✨ Özellikler
 
