@@ -63,7 +63,7 @@ File Organizer is a user-friendly GUI application that automatically categorizes
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/file-organizer.git
+git clone https://github.com/onder7/dosya-duzenleyici.git
 
 # Go to project directory
 cd file-organizer
@@ -100,9 +100,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 İletişim / Contact
 
-- Geliştirici / Developer: [İsminiz / Your Name]
-- E-posta / Email: [E-posta adresiniz / Your email]
-- Proje Sayfası / Project Page: [GitHub Repo URL]
+        onder7@gmail.com
+        GitHub: https://github.com/onder7
+        LinkedIn: www.linkedin.com/in/mustafa-önder-aköz-23174592
+        Medium: https://medium.com/@onder7
+        Web: https://ondernet.net
+        
 
 ---
 
